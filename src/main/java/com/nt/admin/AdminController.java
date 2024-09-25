@@ -8,7 +8,7 @@ public class AdminController {
 	
 	@GetMapping("msg")
 	public String home() {
-		return "JNBDB";
+		return "Anil";
 	}
 
 }
