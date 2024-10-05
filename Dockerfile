@@ -6,6 +6,6 @@ WORKDIR /usr/app/
 
 ENTRYPOINT ["java", "-jar", "Finance-0.0.1-SNAPSHOT.jar"]
 
-EXPOSE 8080
+EXPOSE 8880
 
 
